@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+h1{
+	display: flex;
+	justify-content: center;
+	margin: 20px;
+}
+
+.row{
+	display: flex;
+	justify-content:center;
+}
+
+.block{
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+}
+
+.red{
+	background-color: red;
+}
+
+.black{
+	background-color: black;
+}
